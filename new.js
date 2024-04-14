@@ -18,4 +18,4 @@ function RedeemBox(hour, minute, second, millisecond) {
     }
 }
 
-RedeemBox(20, 30, 0, 0);
+RedeemBox(20, 33, 0, 0);
